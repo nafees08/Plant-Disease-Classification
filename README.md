@@ -109,8 +109,6 @@ python gpu_monitor/monitor.py
 ## 👥 Authors
 - Soleman Hossain  
 - Durjoy Barua  
-- Nafees Mahmud  
-- Nafis Mahmud  
 - Shahriar Ratul  
 
 🔗 GitHub Repo: [Plant Disease Classification with GPU Support](https://github.com/Durjoy01/Plant-Disease-Classification-with-GPU-Support-MLP-)  
